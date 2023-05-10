@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some small projects with examples to have them on hand.
-- 🌱 I’m currently learning JPA and other DB related fadvanced themes.
+- 🌱 I’m currently learning JPA and other DB related advanced themes.
 - 📫 How to reach me: email: stanislav.danylenko@gmail.com, LinkedIn you can find in profile info
 - 📱 Try my Android apps: https://play.google.com/store/apps/developer?id=Stanislav+Danylenko
 
